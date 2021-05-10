@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":251:{a:2:{s:7:"defects";a:2:{s:35:"BubbleSort\BubbleSortTest::testSort";i:4;s:41:"Tests\BubbleSort\BubbleSortTest::testSort";i:4;}s:5:"times";a:2:{s:35:"BubbleSort\BubbleSortTest::testSort";d:0.018;s:41:"Tests\BubbleSort\BubbleSortTest::testSort";d:0.01;}}}
